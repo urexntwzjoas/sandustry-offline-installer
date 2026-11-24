@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Make an impact in the living, breathing world of Mineralis. Think, talk and fight your way through challenging combat and moral dilemmas. A hyper-meaningful JRPG with rich characters and unique encounters awaits your decision...
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | Mac OS 10.13 or newer |
+| **Processor** | Min: Intel Core i3-4340 / Rec: Intel Core i5 or better | Intel Core i3-4340 |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: 512 MB / Rec: 1 GB or more | 512 MB |
+| **Storage** | 2 GB available space | 2 GB available space |
+| **OS *** | Min: Windows 7 / Rec: Windows 8, 10, or newer | Windows 7 |
+| **Additional Notes** | Minimum display resolution 1280x720 | Minimum display resolution 1280x720 |
 
 ---
 
